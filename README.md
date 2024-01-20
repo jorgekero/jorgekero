@@ -6,7 +6,7 @@ Patient and willing to learn. I passionately believe that data analysis solves m
 
 I am used to the idea of training and learning one step at a time. From running Marathons, which require months of preparation, to the idea of going from "Scaled" to "Rx" in Crossfit.
 I had to set a goal and Google wasn't giving me a consistent target to aim for to improve my numbers. So my curiosity led me down the path of data analytics and visualization to extract insights from a 
-large database of Crossfit athletes statistics worldwide and thus evaluate how far I was from the average Crossfitter.
+large database of Crossfit athletes statistics and thus evaluate how far I was from the average Crossfitter.
 
 In 2022, I've learned a lot about Machine Learning and Natural Language Processing (NLP). The COVID-19 pandemic brought many changes to our work and study environments. Therefore, a business institute wanted 
 to evaluate how students felt about the in-person and remote class formats. In this way, a project was presented to evaluate which format they prefer through surveys and Sentiment Analysis of the students' comments.
